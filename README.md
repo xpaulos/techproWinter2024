@@ -36,6 +36,10 @@
 
 `git commit -m "you comment"`
 
+### Check the status of git again
+
+`git status` 
+
 ### Push your changes
 
 `git push`
