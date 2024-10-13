@@ -16,6 +16,28 @@
 > package.json: Manages project dependencies and scripts.
 > README.md: Documentation for your app.
 
+
+### Install Code runtime requirements 
+Node.js & npm: Ensure Node.js is installed on your system as React development relies on it for package management and tooling. 
+
+> Windows:
+
+Download the latest Node.js installer from the official website: https://nodejs.org/en
+Run the installer and follow the on-screen instructions.
+Once the installation is complete, open your command prompt or terminal and `run npm -v` to verify the installation.
+
+> macOS:
+
+Using Homebrew: If you have Homebrew installed, use the following command to install Node.js and npm:
+
+`brew install node`
+
+> Linux:
+
+Using package managers: Most Linux distributions have Node.js and npm available in their package repositories. Use your distribution's package manager to install them. For example, on Ubuntu or Debian:
+
+`sudo apt install nodejs npm`
+
 ### Make a change
 
 > Locate the file App.js inside /src folder
