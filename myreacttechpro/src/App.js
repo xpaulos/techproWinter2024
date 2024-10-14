@@ -10,6 +10,7 @@ function App() {
         {/* Type your changes below this line */}
 
         <p>  Pavlos Xouplidis       </p>
+        <p>  Marios Goutidis</p>
 
         {/* Type your changes above this line*/}
 
