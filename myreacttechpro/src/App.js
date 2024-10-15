@@ -9,11 +9,9 @@ function App() {
 
         {/* Type your changes below this line */}
 
-<<<<<<< HEAD
         <p>  Nikoleta Gerousi_       </p>
-=======
+        <p> Dimitrios Savvidis</p>
         <p>  Kasapakis Nikos       </p>
->>>>>>> 66352341b1b088ec68ba5f724814df6cf93f1f2b
 
         {/* Type your changes above this line*/}
 
