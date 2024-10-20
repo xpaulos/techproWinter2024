@@ -11,7 +11,7 @@ function App() {
 
 <<<<<<< HEAD
         <p>  Katerina Hohou      </p>
-=======
+======= <p>  Maria Antoniadou </p>
 <<<<<<< HEAD
 <<<<<<< HEAD
         <p>  Nikoleta Gerousi_       </p>
